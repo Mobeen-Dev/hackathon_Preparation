@@ -179,17 +179,3 @@
     * **Random Stuff Matching:** Their team name is "BridgeBuilders." They learn a new sign language word every hour. Omar uses hand gestures when explaining code.
 
 ---
-
-### Random Stuff & Tips for Hackathons:
-
-* **Team Names:** Encourage creative and theme-related names.
-* **Snacks:** Crucial for energy! Think easy-to-eat, high-energy options (pizza, energy drinks, fruit, chocolate, homemade goodies).
-* **Music:** A shared playlist can boost morale, or individual headphones for focus.
-* **Breaks:** Essential to avoid burnout. Short stretch breaks, a quick game, or just stepping away.
-* **Whiteboards/Sticky Notes:** Invaluable for brainstorming, planning, and debugging.
-* **Comfort:** Beanbags, blankets, comfortable chairs – anything to make the long hours more bearable.
-* **Mascot:** A silly team mascot can lighten the mood.
-* **Inside Jokes:** These develop organically and bond the team.
-* **"What If" Scenarios:** Encourage exploring edge cases and potential problems early on.
-* **"Wow Factor":** What's one thing that will make your project stand out during the demo?
-* **Pitch Practice:** Even if it's just a 5-minute internal pitch, practicing helps clarify the idea.
